@@ -1,0 +1,80 @@
+# depslib dependency file v1.0
+1653414699 source:c:\users\hh\ltnc-gameproject\ltnc-gameproject\main.cpp
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	"Solution.h"
+	"Board.h"
+
+1653224467 c:\users\hh\ltnc-gameproject\ltnc-gameproject\solution.h
+
+1653224557 source:c:\users\hh\ltnc-gameproject\ltnc-gameproject\solution.cpp
+	<bits/stdc++.h>
+	"Solution.h"
+	"Board.h"
+
+1653184189 source:c:\users\hh\ltnc-gameproject\ltnc-gameproject\board.cpp
+	<bits/stdc++.h>
+	"Board.h"
+
+1653181190 c:\users\hh\ltnc-gameproject\ltnc-gameproject\board.h
+
+1653280277 c:\users\hh\ltnc-gameproject\ltnc-gameproject\gameplay.h
+
+1653241405 c:\users\hh\ltnc-gameproject\ltnc-gameproject\score.h
+
+1653280162 source:c:\users\hh\ltnc-gameproject\ltnc-gameproject\gameplay.cpp
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	"Solution.h"
+	"Board.h"
+	"Gameplay.h"
+
+1716168316 source:c:\users\hp\downloads\ltnc-gameproject-main\ltnc-gameproject-main\ltnc-gameproject\board.cpp
+	<bits/stdc++.h>
+	"Board.h"
+
+1716168316 c:\users\hp\downloads\ltnc-gameproject-main\ltnc-gameproject-main\ltnc-gameproject\board.h
+
+1716371749 source:c:\users\hp\downloads\ltnc-gameproject-main\ltnc-gameproject-main\ltnc-gameproject\main.cpp
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	"Solution.h"
+	"Board.h"
+
+1716168316 c:\users\hp\downloads\ltnc-gameproject-main\ltnc-gameproject-main\ltnc-gameproject\solution.h
+
+1716168316 source:c:\users\hp\downloads\ltnc-gameproject-main\ltnc-gameproject-main\ltnc-gameproject\solution.cpp
+	<bits/stdc++.h>
+	"Solution.h"
+	"Board.h"
+
+1716168316 source:c:\workspace\btvn_ltnc\ltnc-gameproject\board.cpp
+	<bits/stdc++.h>
+	"Board.h"
+
+1716168316 c:\workspace\btvn_ltnc\ltnc-gameproject\board.h
+
+1716371749 source:c:\workspace\btvn_ltnc\ltnc-gameproject\main.cpp
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	"Solution.h"
+	"Board.h"
+
+1716168316 c:\workspace\btvn_ltnc\ltnc-gameproject\solution.h
+
+1716168316 source:c:\workspace\btvn_ltnc\ltnc-gameproject\solution.cpp
+	<bits/stdc++.h>
+	"Solution.h"
+	"Board.h"
+
